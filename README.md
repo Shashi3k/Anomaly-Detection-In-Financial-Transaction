@@ -1,5 +1,5 @@
 # Anomaly-Detection-In-Financial-Transaction
-🚀 Excited to share my latest project where I utilized the Ethereum dataset for anomaly detection in financial transactions! 📈 I used the powerful isolation forest algorithm to identify anomalies in the data. Here's a brief overview of the steps I took:
+🚀 Excited to share my latest project where I utilized the Ethereum dataset for anomaly detection in financial transactions! 📈 I used the powerful isolation forest algorithm to identify anomalies in the data. Here's a brief overview of the steps I took :
 
 1️⃣ Checked for duplicates and missing values in the data.
 2️⃣ Removed unwanted columns to streamline the dataset.
